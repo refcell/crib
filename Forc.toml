@@ -1,0 +1,9 @@
+[project]
+name = "crib"
+author = "velleity.eth"
+entry = "main.sw"
+license = "Apache-2.0"
+
+[dependencies]
+std  = { git = "http://github.com/FuelLabs/sway-lib-std" }
+core = { git = "http://github.com/FuelLabs/sway-lib-core" }
