@@ -1,0 +1,16 @@
+{
+  "name": "crib",
+  "version": "0.2.0",
+  "description": "Extensible, Minimal Template for Sway Projects",
+  "main": "src/main.sw",
+  "repository": "git@github.com:a5f9t4/crib.git",
+  "author": "velleity.eth",
+  "license": "AGPL-3.0-only",
+  "private": false,
+  "scripts": {
+    "install": "cargo",
+    "build": "forc build --print-finalized-asm",
+    "run": "forc run",
+    "test": "forc test"
+  }
+}

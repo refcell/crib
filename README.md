@@ -1,11 +1,22 @@
-# crib • [![Tests](https://github.com/a5f9t4/crib/actions/workflows/tests.yml/badge.svg)](https://github.com/a5f9t4/crib/actions/workflows/tests.yml) [![Lints](https://github.com/a5f9t4/crib/actions/workflows/lints.yml/badge.svg)](https://github.com/a5f9t4/crib/actions/workflows/lints.yml) ![GitHub](https://img.shields.io/github/license/a5f9t4/crib) ![GitHub package.json version](https://img.shields.io/github/package-json/v/a5f9t4/crib)
+# crib • [![Tests](https://github.com/a5f9t4/crib/actions/workflows/tests.yml/badge.svg)](https://github.com/a5f9t4/crib/actions/workflows/tests.yml) ![GitHub](https://img.shields.io/github/license/a5f9t4/crib) ![GitHub package.json version](https://img.shields.io/github/package-json/v/a5f9t4/crib)
 
 
 **Extensible**, **Minimal** Template for Sway Projects.
 
-## Installation
+## Developing
 
-TODO
+#### First Time?
+
+New to rust? Install with: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+
+Learn more at [rust-lang.org](https://www.rust-lang.org/tools/install)
+
+Install `forc` with `cargo install forc fuel-core`
+
+Learn more in the [Fuel Labs docs](https://fuellabs.github.io/sway/latest/getting-started/installation.html)
+
+#### Setup
+
 
 
 ## Acknowledgements
