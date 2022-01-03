@@ -21,10 +21,8 @@ Learn more in the [Fuel Labs docs](https://fuellabs.github.io/sway/latest/gettin
 
 ## Acknowledgements
 
-- [cairomate](https://github.com/a5f9t4/cairomate)
-- [StarkWare](https://starkware.co/)
-- [OpenZeppelin](https://github.com/OpenZeppelin/cairo-contracts)
-- [DappTools Template](https://github.com/gakonst/dapptools-template)
+- [Fuel Labs](https://github.com/FuelLabs)
+- [Cairostarter](https://github.com/a5f9t4/cairostarter)
 
 ## Security
 
