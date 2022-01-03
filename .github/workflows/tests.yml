@@ -12,6 +12,8 @@ jobs:
     - uses: actions-rs/toolchain@v1
       with:
         toolchain: stable
+    - name: Setup
+      run: yarn install
     - name: Build
       run: yarn build
     - name: Test

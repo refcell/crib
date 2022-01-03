@@ -8,7 +8,7 @@
   "license": "AGPL-3.0-only",
   "private": false,
   "scripts": {
-    "install": "cargo",
+    "install": "cargo install forc fuel-core",
     "build": "forc build --print-finalized-asm",
     "run": "forc run",
     "test": "forc test"
